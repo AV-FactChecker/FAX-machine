@@ -1,0 +1,11 @@
+openai
+streamlit
+wikipedia
+pinecone
+transformers
+sentence_transformers
+pinecone_text
+grpc
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+openai-whisper
+os
