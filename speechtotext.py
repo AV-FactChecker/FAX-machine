@@ -22,11 +22,11 @@ import wikipedia
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 #pinecone stuff 
-pc = Pinecone(api_key="553e01e3-7e1a-46f3-ba75-098d1d9288df")
+pc = Pinecone(api_key="${{secrets.PINECONE_API_KEY}}")
 index = pc.Index("factcheck-article-data-tvisha-avhs")
 
 client = OpenAI(
-    api_key = "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"
+    api_key = "${{secrets.OPENAI_API_KEY}}"
 )
 
 bm25 = BM25Encoder()

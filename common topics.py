@@ -21,7 +21,7 @@ def generate_dense(sentences):
     return embeddings
 
 
-pc = Pinecone(api_key="553e01e3-7e1a-46f3-ba75-098d1d9288df")
+pc = Pinecone(api_key="${{secrets.PINECONE_API_KEY}}")
 
 if "factcheck-article-data-tvisha-avhs" not in pc.list_indexes().names():
     pc.create_index(
@@ -44,7 +44,7 @@ topics = ["abortion", "environment", "economic policy", "foreign policy", "immig
 count = 0
 
 for topic in topics:
-    newsapi = NewsApiClient(api_key='4cfdc3ef7a0340c3b1cff4cb672709fe')
+    newsapi = NewsApiClient(api_key='${{secrets.NEWS_API_KEY}}')
 
     # from (datetime.date.today().replace(day=1)-datetime.timedelta(days=1)).replace(day=datetime.date.today().day).strftime("%Y %m %d")
     # to datetime.date.today().strftime("%Y %m %d")
