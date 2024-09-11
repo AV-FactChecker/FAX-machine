@@ -1,150 +1,371 @@
 {
-  'statement': 'He said, the baby will be born and we will decide what to do with the baby.',
-  'result': False,
-  'reason': 'There is no record of any governor of West Virginia making such a statement. This appears to be a misattribution or a misunderstanding of statements made by other politicians on related topics.'
-}
-{'statement': 'student loans terminated and it ended up being a total catastrophe. the student loans and then her, I think probably her boss, if you call him a boss. boss he spends all his time on the beach but look her boss went out and said well do it again. Well do it a different way. He went out, got rejected again by the Supreme Court. So all these students got taunted with this whole thing about this whole idea.', 'result': False, 'reason': 'The statement contains inaccuracies and misleading information. While President Bidens student loan forgiveness plans have faced legal challenges and were blocked by courts, it is not accurate to say that loans were terminated or that the Supreme Court rejected the plan multiple times. The situation is more complex and involves ongoing legal battles.'}
-{'statement': 'unfair that would have been part of the reason they lost to the millions and millions of people. that had to pay off their student loans. They didnt get it for free. But they were saying, its the same way. that they talked about that that they talk about abortion but if I could just get a yes or no because your running mate, JD Vance, has said that you would veto if it did come to your desk. I didnt discuss it with JD in all fairness. JD, and I dont mind.', 'result': False, 'reason': 'The statement is a mix of fragmented and unclear claims, making it difficult to fact-check accurately. Additionally, Kamala Harriss running mate is not JD Vance; her running mate was Joe Biden during the 2020 presidential election. JD Vance is a Republican senator from Ohio, not affiliated with Kamala Harris.'}
-{'statement': 'They couldnt get student loans. They didnt even come close to getting student loans. They taunted young people. and a lot of other people that had loans, they can never get this approved.', 'result': False, 'reason': 'The statement is misleading and inaccurate. Student loans have been widely available for decades, and many people have successfully obtained them to fund their education. The claim that "they couldnt get student loans" or "didnt even come close to getting student loans" is not true. The ongoing legal battles are about loan forgiveness, not the availability of student loans.'}
-{'statement': 'They wanted to get it out of Congress and out of the federal government and we did something that everybody said couldnt be done and now you have a vote of the people on abortion.', 'result': True, 'reason': 'The statement refers to the Supreme Courts decision to overturn Roe v. Wade in 2022, which effectively removed federal protections for abortion rights and allowed individual states to set their own laws regarding abortion. This has led to various state-level votes and legislation on the issue. Therefore, the claim that the issue was moved out of federal control and is now subject to state decisions is accurate.'}
-{'statement': 'understand what has been happening under Donald Trumps abortion bans. who pray and dream of having a family. are being denied IVF treatments.', 'result': False, 'reason': 'There were no federal abortion bans implemented under Donald Trumps administration. However, there were various state-level restrictions on abortion that could have been influenced by his administrations policies. The claim that people are being denied IVF treatments specifically due to these restrictions is not substantiated by evidence. IVF treatment regulations vary by state and are generally separate from abortion laws.'}
-{'statement': 'who can barely afford child care as it is have to travel to state to get on a plane sitting next to strangers to go and get the health care she needs. Barely can afford to do it. And what you are putting her through is unconscionable.', 'result': True, 'reason': 'Following the overturning of Roe v. Wade in 2022, several states enacted strict abortion laws, which have forced some women to travel out of state to obtain abortion services. This can be financially burdensome and logistically challenging, especially for those who already struggle to afford child care and other expenses. The statement accurately reflects the difficulties faced by individuals seeking abortions under these circumstances.'}
-{'statement': 'People of America have not, the majority of Americans believe in a womans right to make a difference. decisions about her own body and that is why in every state where this issue has been on the ballot in red and blue states both. The people of America have voted for freedom.', 'result': True, 'reason': 'Polling data consistently shows that a majority of Americans support the right to abortion in some form. Additionally, in several states, including traditionally conservative (red) states, ballot measures related to protecting abortion rights have passed, indicating public support for reproductive freedom. Therefore, the statement is accurate.'}
-{'statement': 'I have been a leader on fertilization IVF.', 'result': False, 'reason': 'There is no substantial evidence or record to support the claim that Donald Trump has been a leader on in vitro fertilization (IVF). While his administration did make some policy decisions related to healthcare, there is no specific indication that he has been notably involved or recognized as a leader in the field of IVF.'}
-{'statement': 'You could do abortions in the seventh month, the eighth month, the ninth month. And probably after birth. Just look at the governor, former governor of Virginia. The governor of Virginia said we put the baby aside and then we determine what we want to do.', 'result': False, 'reason': 'Abortions in the third trimester (seventh, eighth, and ninth months) are extremely rare and typically only performed when the life or health of the mother is at serious risk or in cases of severe fetal abnormalities. The claim about "probably after birth" is misleading and false; infanticide is illegal in the United States. The reference to the former governor of Virginia, Ralph Northam, is also taken out of context. Northam was discussing cases of non-viable pregnancies or severe fetal abnormalities, not advocating for infanticide.'}
-{'statement': 'We know that illegal border crossings reached a record high in the Biden administration. President Biden imposed tough new asylum restrictions. We know the numbers since then have dropped.', 'result': True, 'reason': 'It is accurate that illegal border crossings reached record highs during the Biden administration. In response, the administration implemented new asylum restrictions and other measures to manage the situation. Following these changes, there has been a reported decrease in the number of illegal border crossings.'}
-{'statement': 'why did the administration wait until months before the election to act. And would you have done anything differently from President Biden?', 'result': False, 'reason': 'The statement implies that the Biden administration only acted on border security and asylum restrictions months before an election, which is not accurate. The Biden administration has been addressing immigration issues throughout its tenure, implementing various policies and measures over time. The timing of specific actions does not necessarily correlate with election cycles.'}
-{'statement': 'The United States Senate came up with a border security bill which I support. it. And that bill would have put 1,500 more border agents on the board to help those folks who are working there right now over time trying to do their job. it would have allowed us to stem the flow of fentanyl coming in. to the United States.', 'result': True, 'reason': 'There have been multiple border security bills proposed in the U.S. Senate, some of which included provisions for increasing the number of border agents and addressing drug smuggling issues, including fentanyl. The statement aligns with typical legislative efforts to enhance border security and support law enforcement.'}
-{'statement': 'Donald Trump got on the phone called up some folks in Congress and said kill the bill and you know why? Because hed prefer to run on a problem instead of fixing a problem.', 'result': False, 'reason': 'There is no verifiable evidence or public record to support the claim that Donald Trump personally intervened by calling members of Congress to kill a specific border security bill. While it is possible for political figures to influence legislative processes behind the scenes, this specific allegation lacks concrete proof.'}
-{'statement': 'why did you try to kill that bill and successfully? that would have put thousands of additional agents and officers on the border.', 'result': False, 'reason': 'There is no verifiable evidence or public record indicating that Donald Trump personally intervened to kill a specific border security bill that would have added thousands of additional agents and officers. Without concrete proof or documentation, this claim cannot be substantiated.'}
-{'statement': 'what they have done to our country by... by allowing these millions and millions of people to come into our country and look at whats... happening to the towns all over the United States. And a lot of towns dont want to talk. Its not going to be a rule. or Springfield. A lot of towns dont want to talk about it because theyre so embarrassed by it.', 'result': False, 'reason': 'While it is true that the U.S. has experienced significant immigration, the claim that towns are "so embarrassed" by the situation that they do not want to talk about it is subjective and lacks concrete evidence. Furthermore, the statement implies a uniformly negative impact on towns across the U.S., which is an oversimplification. The effects of immigration can vary widely depending on local contexts and perspectives.'}
-{'statement': 'in Springfield, theyre eating the dogs, the people that came in. the cats, theyre eating, theyre eating the pets of the people. that live there. And this is whats happening in our country, and its a shame.', 'result': False, 'reason': 'There is no credible evidence or verified reports to support the claim that immigrants in Springfield are eating the pets of local residents. This statement is highly inflammatory and lacks any factual basis. It appears to be an attempt to incite fear and xenophobia.'}
-{'statement': 'You bring up Springfield, Ohio, and ABC News did reach out to the city manager there. he told us there had been no credible reports of specific claims of pets being harmed, injured.', 'result': True, 'reason': 'ABC News did reach out to the city manager of Springfield, Ohio, who confirmed that there had been no credible reports of pets being harmed or injured by immigrants. This aligns with the factual situation as verified by news sources.'}
-{'statement': 'Springfield City Manager says theres no evidence of that.', 'result': True, 'reason': 'The Springfield City Manager has indeed stated that there is no evidence to support claims of pets being harmed or eaten by immigrants. This statement aligns with the verified information provided by local authorities and reported by news outlets.'}
-{'statement': 'in this election, I actually have the end... of 200 Republicans who have formally worked with us. with President Bush, Mitt Romney, and John McCain, including the endorsement of the of former Vice President Dick Cheney and Congressmember Liz Cheney.', 'result': True, 'reason': 'It is true that Kamala Harris and the Biden administration have received endorsements from a number of Republicans, including prominent figures like former Vice President Dick Cheney and Congresswoman Liz Cheney. Many Republicans who have worked with past Republican presidents such as George W. Bush, Mitt Romney, and John McCain have also expressed support for the Biden-Harris administration.'}
-{'statement': 'if you want to really know the inside track on who the former president is, if he didnt make it clear already, just ask people who have worked with him. His former chief of staff of four star general has said he has contempt for his actions. dangerous and unfit.', 'result': True, 'reason': 'Several high-ranking officials who previously worked with Donald Trump, including his former Chief of Staff, General John Kelly, have publicly criticized him. General Kelly has indeed expressed severe disapproval of Trump�s actions and characterized him as dangerous and unfit for office.'}
-{'statement': 'Yeah, it is much higher because', 'result': False, 'reason': 'There is no evidence to support the claim that the number of undocumented immigrants in the United States is significantly higher than the commonly cited estimate of around 11 million. Estimates from reputable sources like the Pew Research Center and the Department of Homeland Security typically place the number in the range of 10-12 million.'}
-{'statement': 'They allowed criminals, many, many millions of criminals. They allowed dealers to come into our country and then now in the United States and told by their countries like Venezuela dont ever come back or were going to kill you', 'result': False, 'reason': 'There is no evidence to support the claim that "many, many millions" of criminals or dealers have been allowed into the United States. Additionally, while some individuals may face threats if they return to their home countries, there is no verifiable data to substantiate the claim that countries like Venezuela explicitly tell criminals not to return under threat of death.'}
-{'statement': 'Theyve taken their criminals off the street and theyve given them to her to put into our country.', 'result': False, 'reason': 'There is no evidence to support the claim that other countries are systematically sending their criminals to the United States. This assertion is not backed by any credible data or reports. Immigration policies and enforcement mechanisms do not support the notion that foreign governments are deliberately offloading criminals into the U.S.'}
-{'statement': 'Crime is down all over the world except here. Crime here is up and through the roof. despite their fraudulent statements that they made, crime in this country is through the roof. and we have a new form of crime, its called migrant crime, and its happening at levels that nobody thought possible.', 'result': False, 'reason': 'Recent reports, such as those from the Major Cities Chiefs Association, indicate that overall violent crime in the U.S. has decreased, including a significant drop in homicides. The assertion that crime is "through the roof" contradicts these findings. Additionally, there is no substantial evidence to support the claim that there is a new form of "migrant crime" occurring at unprecedented levels.'}
-{'statement': 'the cities they didnt include the cities with the worst crime it was a fraud Just like their number of 818,000 jobs that they said they created turned out to be', 'result': False, 'reason': 'There is no evidence to support the claim that crime statistics were manipulated by excluding cities with the worst crime. Crime data is typically compiled from a wide range of cities and jurisdictions. Additionally, the claim about the creation of 818,000 jobs being fraudulent lacks supporting evidence. Job creation numbers are usually verified through multiple independent sources, including government agencies and economic research institutions.'}
-{'statement': 'has been found liable for sexual assault', 'result': True, 'reason': 'Donald Trump was found liable for sexual abuse and defamation in a civil case brought by E. Jean Carroll. A jury awarded Carroll $5 million in damages in May 2023.'}
-{'statement': 'Vice President called for defunding federal law enforcement 45 thousand agents, get this, on the day after he was arranged on thirty- or felony counts.', 'result': False, 'reason': 'There is no verifiable evidence to support the claim that the Vice President called for defunding federal law enforcement or 45,000 agents. Additionally, there is no record of such a statement being made the day after being arraigned on felony counts. This appears to be a mischaracterization or fabrication.'}
-{'statement': 'every one of those cases was started by them against their political opponent.', 'result': False, 'reason': 'There is no evidence to support the claim that every legal case against Donald Trump was initiated by political opponents. Legal proceedings are typically based on investigations conducted by law enforcement agencies and prosecutors who are expected to operate independently of political influence. This statement lacks verifiable proof and is likely an overgeneralization.'}
-{'statement': 'and Im winning most of them and I will win the rest on appeal. And you saw that with the decision that came. down just recently from the Supreme Court.', 'result': False, 'reason': 'There is no evidence to support the claim that Donald Trump is winning most of his legal cases or that a recent Supreme Court decision has been in his favor regarding these cases. Legal outcomes are determined on a case-by-case basis, and many of the cases involving Trump are ongoing or have resulted in unfavorable rulings for him. The statement appears to be an exaggeration without factual backing.'}
-{'statement': 'Joe Biden was found essentially guilty on the documents case.', 'result': False, 'reason': 'There is no evidence to support the claim that Joe Biden was found "essentially guilty" in any documents case. As of now, there have been no legal proceedings or findings against Joe Biden regarding a documents case. This statement is misleading and not based on verified facts.'}
-{'statement': 'The United States Supreme Court recently ruled that the former president would essentially be immune from any misconduct.', 'result': False, 'reason': 'There has been no recent ruling by the United States Supreme Court declaring that a former president would be essentially immune from any misconduct. Legal accountability for former presidents remains subject to judicial processes, and no such blanket immunity has been granted.'}
-{'statement': 'this is someone who has openly said he would terminate, Im quoting, terminate the Constitution of the United States.', 'result': True, 'reason': 'Donald Trump did suggest on his social media platform that parts of the U.S. Constitution should be terminated in response to his claims of election fraud. This statement was widely reported and criticized.'}
-{'statement': 'probably took a bullet to their head because of the things that they say about me.', 'result': False, 'reason': 'There is no evidence to support the claim that anyone has "probably took a bullet to their head" because of things they said about Donald Trump. This statement appears to be hyperbolic and lacks any factual basis.'}
-{'statement': 'in your last run for president, you said you wanted to ban fracking. now you dont. You wanted mandatory government buyback programs for assault weapons, now youre campaign says you dont. You supported decriminalizing border crossings.', 'result': True, 'reason': 'During her 2020 presidential campaign, Kamala Harris did express support for banning fracking, implementing mandatory buyback programs for assault weapons, and decriminalizing border crossings. However, her positions on these issues have evolved over time, and she has moderated some of her stances since then.'}
-{'statement': 'I made that very clear in 2020. I will not ban fracking. I have not.', 'result': False, 'reason': 'During her 2020 presidential campaign, Kamala Harris did express support for banning fracking. This statement contradicts her past position on the issue.'}
-{'statement': 'Inflation Reduction Act, which opened new leases for fracking.', 'result': True, 'reason': 'The Inflation Reduction Act of 2022 includes provisions that open new leases for oil and gas drilling, including fracking. This was part of a compromise to gain support for the broader climate and energy initiatives within the bill.'}
-{'statement': 'we are going to work with the private sector and home builders to increase the cost of living. Increase 3 million homes, increase by 3 million homes by the end of my first term.', 'result': False, 'reason': 'It is unlikely that Kamala Harris would advocate for increasing the cost of living as a policy goal. The statement appears to be a miscommunication or error. Increasing the number of homes by 3 million is a more plausible objective to address housing shortages.'}
-{'statement': 'My values have not changed.', 'result': True, 'reason': 'Kamala Harris stating that her values have not changed is a subjective statement about her personal beliefs and integrity. Without evidence to the contrary, it is reasonable to accept her assertion about her own values.'}
-{'statement': 'I wasnt given $400 million. I wish I was. My father was a Brooklyn-Belarusian. the Brooklyn Queens and a great father and I learned a lot from him but I was given a fraction of that.', 'result': False, 'reason': 'Donald Trump has claimed various amounts regarding the inheritance from his father. According to a New York Times investigation, Donald Trump received at least $413 million (adjusted for inflation) from his father over the years through various financial maneuvers. This contradicts his claim of receiving only a fraction of $400 million.'}
-{'statement': 'Shes been against it for 12 years. Defund the police. Shes been against it for 12 years.', 'result': False, 'reason': 'Kamala Harris has not been advocating for defunding the police for 12 years. In fact, her record as a prosecutor and Attorney General of California shows support for law enforcement. The "defund the police" movement gained prominence in 2020, and Harris has expressed support for police reform rather than defunding.'}
-{'statement': 'she was big on defund the police. In Minnesota, she went out... and wanted to let criminals that killed people that burned down Minneapolis.', 'result': False, 'reason': 'Kamala Harris has not been a proponent of defunding the police. While she has supported police reform and measures for accountability, there is no evidence that she advocated for letting criminals who killed people or burned down Minneapolis go free.'}
-{'statement': 'She went out and raised money to get him out of jail. She did things that nobody would ever think of. Now she wants to do transgender operations on illegal aliens that are in prison. to confiscate your guns and she will never allow fracking in Pennsylvania. the election fracking in Pennsylvania will end on day one.', 'result': False, 'reason': 'Kamala Harris did support a bail fund during the George Floyd protests, but there is no evidence she personally raised money to release violent criminals. There is also no evidence supporting claims that she wants to mandate transgender operations for undocumented immigrants in prison or confiscate guns. Regarding fracking, while her stance has evolved, she has stated she does not intend to ban fracking outright.'}
-{'statement': 'I got the oil business going like... Nobody has ever done before. They took, when they took over, they got rid of it. of getting rid of it and the prices were going up the roof.', 'result': False, 'reason': 'While Donald Trump did implement policies favorable to the oil industry, such as deregulation and opening up more land for drilling, it is an exaggeration to say "nobody has ever done before." The oil industry has been a significant part of U.S. policy for decades. Additionally, the claim that the subsequent administration "got rid of it" and caused prices to go "up the roof" oversimplifies complex market dynamics influenced by global factors, including the COVID-19 pandemic.'}
-{'statement': 'But if she won the election, the day after that election, theyll go back to destroy growing our country, and oil will be dead, fossil fuel will be dead. Well go back to windmills and well go back to... solar where they need a whole desert to get some energy to come out.', 'result': False, 'reason': 'This statement is an exaggeration and not based on factual evidence. While a shift towards renewable energy sources like wind and solar is part of many political agendas, it is unrealistic to claim that fossil fuels would be completely eliminated immediately after an election. Transitioning energy sources is a gradual process and involves complex economic and infrastructural considerations.'}
-{'statement': 'solar plant, by the way Im a big fan of solar, but they take 400,000 solar plants, 500 acres of desert soil. These are not good things for the environment.', 'result': False, 'reason': 'The statement contains inaccuracies and exaggerations. Solar plants do require land, but the claim that 400,000 solar plants each take 500 acres of desert soil is not accurate. Additionally, while large-scale solar installations do have environmental impacts, they are generally considered more environmentally friendly compared to fossil fuels due to their lower greenhouse gas emissions.'}
-{'statement': 'You told your supporters to march to the Capitol. You said you would be right there with them. The country and the world saw what played out of the capital that day. The officers coming under attack. AIDS in the West Wing say you watched it unfold on television off the Oval Office. You did send out tweets, but it was more than... two hours before you send out that video message telling your supporters to go home.', 'result': True, 'reason': 'On January 6th, 2021, Donald Trump did tell his supporters to march to the Capitol during a rally. He also said he would be with them, although he did not go to the Capitol himself. The events at the Capitol were widely broadcast, showing officers under attack. Reports indicate that Trump watched the events unfold on television. It took more than two hours before he released a video message asking his supporters to go home.'}
-{'statement': 'Ashley Babbitt was shot by an out-of-control police officer. police officer that should have never, ever shot her. Its a disgrace.', 'result': False, 'reason': 'Ashley Babbitt was shot by a Capitol Police officer during the January 6th riot as she attempted to breach a barricaded door near the Speaker\'s Lobby. The Department of Justice concluded that the officer acted in self-defense and in defense of others present, and no charges were filed against the officer. The characterization of the officer as "out-of-control" and the shooting as unjustified is not supported by official investigations.'}
-{'statement': 'she was the border czar remember that she was the border czar she doesnt want to be called borders are because shes embarrassed by the border.', 'result': False, 'reason': 'Vice President Kamala Harris was tasked with addressing the root causes of migration from Central America, not managing the U.S.-Mexico border directly. The term "border czar" is a mischaracterization of her role. She has not publicly stated that she is embarrassed by the border situation.'}
-{
-    'statement': "fired by 81 million people. So lets be clear about that. And clearly, he is having a very difficult time processing that. But we cannot afford to let him do that. to have a president of the United States who attempts to as he did in the past to upend the will of the voters in a free and fair way. election.",
-    'result': True,
-    'reason': "Joe Biden received approximately 81 million votes in the 2020 presidential election, which was more than any other candidate in U.S. history. The statement refers to Donald Trump's attempts to challenge the election results, which included numerous lawsuits and public claims of election fraud, none of which were substantiated by evidence."
+'statement': 'He said, the baby will be born and we will decide what to do with the baby.',
+'result': False,
+'reason': 'There is no record of any governor of West Virginia making such a statement. This appears to be a misattribution or a misunderstanding of statements made by other politicians on related topics.'
 }
 {
-    'statement': "Shes a tough person, smart. Prime Minister of Hungary, they said, Why is the whole world blowing up? Three years ago it wasnt. Why is it blowing up? him. of him. North Korea was afraid of him. Look at whats going on with North Korea by the way.",
-    'result': False,
-    'reason': "The statement contains several assertions that are either subjective or not supported by evidence. The claim that 'the whole world is blowing up' and attributing it to a specific individual lacks context and factual basis. Additionally, the idea that 'North Korea was afraid of him' is speculative and not verifiable. The reference to current events in North Korea also lacks specific details to be fact-checked."
+'statement': 'student loans terminated and it ended up being a total catastrophe. the student loans and then her, I think probably her boss, if you call him a boss. boss he spends all his time on the beach but look her boss went out and said well do it again. Well do it a different way. He went out, got rejected again by the Supreme Court. So all these students got taunted with this whole thing about this whole idea.', 
+'result': False, 
+'reason': 'The statement contains inaccuracies and misleading information. While President Bidens student loan forgiveness plans have faced legal challenges and were blocked by courts, it is not accurate to say that loans were terminated or that the Supreme Court rejected the plan multiple times. The situation is more complex and involves ongoing legal battles.'
 }
 {
-    'statement': "He said Russia was afraid of him. I ended the Nord Stream 2 pipeline and Biden put it back on day one, but he ended the XL pipeline. The XL pipeline is a big problem. going all over Europe and heading into Germany, the biggest pipeline in the world. Victor Orban said it. He said the most respected most feared",
-    'result': False,
-    'reason': "Several inaccuracies are present in this statement. Donald Trump did not end the Nord Stream 2 pipeline; construction continued during his presidency and was nearly complete when Joe Biden took office. Biden did not 'put it back on day one'; his administration waived sanctions on the company overseeing the project later on. The Keystone XL pipeline permit was revoked by Biden on his first day in office, but it is unrelated to Nord Stream 2. The claim that the Nord Stream 2 pipeline is 'the biggest pipeline in the world' is also inaccurate. Additionally, attributing statements to Viktor Orb�n without specific evidence or context makes them unverifiable."
+'statement': 'unfair that would have been part of the reason they lost to the millions and millions of people. that had to pay off their student loans. They didnt get it for free. But they were saying, its the same way. that they talked about that that they talk about abortion but if I could just get a yes or no because your running mate, JD Vance, has said that you would veto if it did come to your desk. I didnt discuss it with JD in all fairness. JD, and I dont mind.', 
+'result': False, 
+'reason': 'The statement is a mix of fragmented and unclear claims, making it difficult to fact-check accurately. Additionally, Kamala Harriss running mate is not JD Vance; her running mate was Joe Biden during the 2020 presidential election. JD Vance is a Republican senator from Ohio, not affiliated with Kamala Harris.'
 }
 {
-    'statement': "We had no problems when Trump was president. But when this weak pathetic man that you saw at a debate just a few days ago months ago that if he werent in that debate hed be running instead of her. She got no votes. He got 14 million votes. What you did, you talk about a threat to democracy. He got 14 million votes. votes and they threw him out of office and you know what Ill give you a little secret he hates her.",
-    'result': False,
-    'reason': "The statement contains several inaccuracies and subjective claims. The assertion that 'we had no problems when Trump was president' is subjective and not factually accurate; various issues and crises occurred during his tenure. The claim about '14 million votes' is ambiguous and lacks context�if referring to the 2020 election, Donald Trump received approximately 74 million votes, not 14 million. The statement about being 'thrown out of office' misrepresents the democratic process of an election. Additionally, personal sentiments attributed to unnamed individuals ('he hates her') are unverifiable."
+'statement': 'They couldnt get student loans. They didnt even come close to getting student loans. They taunted young people. and a lot of other people that had loans, they can never get this approved.', 
+'result': False, 
+'reason': 'The statement is misleading and inaccurate. Student loans have been widely available for decades, and many people have successfully obtained them to fund their education. The claim that "they couldnt get student loans" or "didnt even come close to getting student loans" is not true. The ongoing legal battles are about loan forgiveness, not the availability of student loans.'
 }
 {
-    'statement': "cant stand her. But he got 14 million votes, they threw him out. zero votes and when she ran she was the first one to leave because she was failed and now shes running. I dont understand it but Im okay with it because... I think were going to do very well. Weve got a lot more to get to. Turning now to the Israel Hamas war and the hostilities. who are still being held Americans among them. Vice President Harris in December used",
-    'result': False,
-    'reason': "The statement contains several inaccuracies and lacks context. The claim that someone 'got 14 million votes' and was 'thrown out' is ambiguous and misleading. If referring to the 2020 election, Donald Trump received approximately 74 million votes. The assertion that 'she got zero votes' and was 'the first one to leave' is unclear without specifying who 'she' is, but if referring to Kamala Harris, she did drop out of the Democratic primary before any votes were cast. The statement about the Israel-Hamas conflict lacks specific details and context to verify. Overall, the statement is disjointed and contains unverifiable personal sentiments."
+'statement': 'They wanted to get it out of Congress and out of the federal government and we did something that everybody said couldnt be done and now you have a vote of the people on abortion.', 
+'result': True, 
+'reason': 'The statement refers to the Supreme Courts decision to overturn Roe v. Wade in 2022, which effectively removed federal protections for abortion rights and allowed individual states to set their own laws regarding abortion. This has led to various state-level votes and legislation on the issue. Therefore, the claim that the issue was moved out of federal control and is now subject to state decisions is accurate.'
 }
 {
-    'statement': "Jewish people, Israel, Israel will be gone. It would have never been possible. happened Iran was broke under Donald Trump now Iran has three $100 billion because they took off all the sanctions that I had Iran had no for Hamas or Hezbollah or any of the 28 different spheres. of terror and they are spheres of terror, horrible terror. They had no money.",
-    'result': False,
-    'reason': "The statement contains several inaccuracies. While it is true that the Trump administration imposed heavy sanctions on Iran, it is not accurate to say that Iran had 'no money' for Hamas or Hezbollah or that they were completely broke. Additionally, the claim that Iran now has $100 billion due to lifted sanctions is not substantiated by available evidence. The overall assertion that Israel would be gone without these actions is speculative and not based on concrete facts."
+'statement': 'understand what has been happening under Donald Trumps abortion bans. who pray and dream of having a family. are being denied IVF treatments.', 
+'result': False, 
+'reason': 'There were no federal abortion bans implemented under Donald Trumps administration. However, there were various state-level restrictions on abortion that could have been influenced by his administrations policies. The claim that people are being denied IVF treatments specifically due to these restrictions is not substantiated by evidence. IVF treatment regulations vary by state and are generally separate from abortion laws.'
 }
 {
-    'statement': "It was a big story and you know it. You covered it very well actually. They had no money. for terror. They were broke. Now theyre a rich nation and now What theyre doing is theyre spreading that money around. Look at whats happening with... the Houthis and Yemen. Look at whats going on in the Middle East. This would have never happened. happened.",
-    'result': False,
-    'reason': "While it is true that the Trump administration imposed significant sanctions on Iran, which affected its economy, it is not accurate to say that Iran had 'no money' for terror or that they were completely broke. Iran continued to support groups like Hezbollah and the Houthis during this period. The claim that Iran is now a 'rich nation' due to lifted sanctions is not substantiated by available evidence. Economic conditions in Iran remain challenging, and while sanctions relief might provide some economic benefits, it does not equate to Iran becoming a rich nation."
+'statement': 'who can barely afford child care as it is have to travel to state to get on a plane sitting next to strangers to go and get the health care she needs. Barely can afford to do it. And what you are putting her through is unconscionable.', 
+'result': True, 
+'reason': 'Following the overturning of Roe v. Wade in 2022, several states enacted strict abortion laws, which have forced some women to travel out of state to obtain abortion services. This can be financially burdensome and logistically challenging, especially for those who already struggle to afford child care and other expenses. The statement accurately reflects the difficulties faced by individuals seeking abortions under these circumstances.'
 }
 {
-    'statement': "that Donald Trump is weak and wrong on national security and foreign policy. It is well known that he admires dictators, wants to be a dictator. on day one according to himself, it is well known that he said of Putin that he can do whatever the hell he wants and go into Ukraine. It is well known that he said when Russia went into Ukraine.",
-    'result': False,
-    'reason': "The statement contains several elements that require clarification. While it is true that Donald Trump has expressed admiration for certain authoritarian leaders, the claim that he wants to be a dictator is speculative and not based on definitive evidence. Additionally, there is no record of Trump explicitly saying that Vladimir Putin can 'do whatever the hell he wants and go into Ukraine.' He did make controversial statements about Putin and Russia's actions in Ukraine, but the specific quotes mentioned are not accurate. The overall characterization of Trump as weak on national security and foreign policy is subjective and not a verifiable fact."
+'statement': 'People of America have not, the majority of Americans believe in a womans right to make a difference. decisions about her own body and that is why in every state where this issue has been on the ballot in red and blue states both. The people of America have voted for freedom.', 
+'result': True, 
+'reason': 'Polling data consistently shows that a majority of Americans support the right to abortion in some form. Additionally, in several states, including traditionally conservative (red) states, ballot measures related to protecting abortion rights have passed, indicating public support for reproductive freedom. Therefore, the statement is accurate.'
 }
 {
-    'statement': "military leaders who you have worked with have told me you are a disgrace That is why we understand that we have to have a president who is not consistently weak and wrong on national security, including the importance of the international community. of upholding and respecting in highest regard our military. Vice President. Thank you.",
-    'result': False,
-    'reason': "The statement that military leaders who you have worked with have told me you are a disgrace is unverifiable and lacks concrete evidence. While some military leaders have publicly criticized Donald Trump, attributing this specific sentiment directly to unnamed military leaders without evidence makes the statement speculative. The rest of the statement reflects Kamala Harriss opinion on the need for strong national security and respect for the military, which is subjective."
+'statement': 'I have been a leader on fertilization IVF.', 
+'result': False, 
+'reason': 'There is no substantial evidence or record to support the claim that Donald Trump has been a leader on in vitro fertilization (IVF). While his administration did make some policy decisions related to healthcare, there is no specific indication that he has been notably involved or recognized as a leader in the field of IVF.'
 }
 {
-    'statement': "or national security by allowing every nation last month for the year a 168 different countries sending people into our country. Their crime weights are... down. because what hes gotten away with is absolutely incredible. It wouldnt have happened without him. with me. The leaders of other countries think that theyre weak and in",
-    'result': False,
-    'reason': "The statement that 168 different countries sending people into our country is not substantiated by specific evidence. Additionally, the claim that their crime weights are... down is vague and lacks context or supporting data. The assertion that it wouldn't have happened without him and that 'the leaders of other countries think that they're weak' is speculative and subjective. These points make the overall statement unverifiable and largely opinion-based."
+'statement': 'You could do abortions in the seventh month, the eighth month, the ninth month. And probably after birth. Just look at the governor, former governor of Virginia. The governor of Virginia said we put the baby aside and then we determine what we want to do.', 
+'result': False, 
+'reason': 'Abortions in the third trimester (seventh, eighth, and ninth months) are extremely rare and typically only performed when the life or health of the mother is at serious risk or in cases of severe fetal abnormalities. The claim about "probably after birth" is misleading and false; infanticide is illegal in the United States. The reference to the former governor of Virginia, Ralph Northam, is also taken out of context. Northam was discussing cases of non-viable pregnancies or severe fetal abnormalities, not advocating for infanticide.'
 }
 {
-    'statement': "incompetent, and they are. Theyre grossly incompetent. And I just ask one question. Why does Biden go in and kill the Keystone pipeline and approve the single-billion-dollar and all over Europe because theyre weak and theyre ineffective and Biden the way gets paid a lot of money.",
-    'result': False,
-    'reason': "The statement contains several inaccuracies and unsubstantiated claims. While it is true that President Joe Biden revoked the permit for the Keystone XL pipeline, the claim that he 'approved the single-billion-dollar and all over Europe' is vague and lacks context. Additionally, the assertion that Biden 'gets paid a lot of money' is an unsubstantiated accusation without evidence. The statement also includes subjective opinions about competence that cannot be verified as factual."
-}
-{'statement': 'I want to save lives that are being uselessly people. being killed by the millions. Its the millions. Its so much worse than the numbers. that youre getting, which are fake numbers.', 'result': False, 'reason': 'There is no evidence to support the claim that millions of people are being killed in the current conflicts mentioned. The numbers available from reliable sources do not support this statement.'}
-{'statement': 'They paid billions and billions hundreds of billions of dollars when I said, either you pay up or were not going to protect you anymore.', 'result': False, 'reason': 'While it is true that Donald Trump pressured NATO allies to increase their defense spending, the claim that they paid "hundreds of billions of dollars" as a direct result of his ultimatum is exaggerated. NATO members did increase their defense budgets, but the total increase was not in the hundreds of billions.'}
-{'statement': 'He hasnt even made a phone call in two years to Putin, hasnt spoken to anybody.', 'result': False, 'reason': 'There is no public record or evidence to support the claim that President Biden has not made a phone call to Putin or spoken to anyone in two years. In fact, President Biden and Putin have had several interactions and communications since Biden took office.'}
-{'statement': 'Four presidents said they would, and Joe Biden did. And as a result... Americas taxpayers are not paying the 300 million dollars a day we were paying for that', 'result': True, 'reason': 'President Biden did execute the withdrawal from Afghanistan, which had been a goal stated by previous presidents. Additionally, the U.S. was spending significant amounts of money on the war in Afghanistan, and the figure of $300 million a day is within the range of estimates provided by various sources.'}
-{'statement': 'He bypassed the Afghan government. He negotiated with the Afghan government. involved the Taliban getting 5,000 terrorists, Taliban terrorists released.', 'result': True, 'reason': 'The Trump administration did negotiate directly with the Taliban, bypassing the Afghan government in the process. As part of the agreement, the U.S. agreed to the release of up to 5,000 Taliban prisoners.'}
-{'statement': 'who spread birther lies about the first black president of the United States.', 'result': True, 'reason': 'Donald Trump was a prominent figure in promoting the "birther" conspiracy theory, which falsely claimed that Barack Obama, the first black president of the United States, was not born in the U.S.'}
-{
-  "statement": "$6,000 for young families for the first year of your child's life. plan that is about allowing people to be able to pursue what been fleeting in terms of the American dream by offering a help with down payment of $25,000 down payment assistance for first time home buyers.",
-  "result": False,
-  "reason": "There is no evidence or record of a policy or plan from Donald Trump offering $6,000 for young families for the first year of a child's life or a $25,000 down payment assistance for first-time home buyers."
+'statement': 'We know that illegal border crossings reached a record high in the Biden administration. President Biden imposed tough new asylum restrictions. We know the numbers since then have dropped.', 
+'result': True, 
+'reason': 'It is accurate that illegal border crossings reached record highs during the Biden administration. In response, the administration implemented new asylum restrictions and other measures to manage the situation. Following these changes, there has been a reported decrease in the number of illegal border crossings.'
 }
 {
-    'statement': "When Donald Trump was president, six years ago, 60 times he tried to get rid of the Affordable Care Act. 60 times.",
-    'result': False,
-    'reason': "Donald Trump became president in January 2017, which is less than six years ago from today. Additionally, while there were numerous attempts to repeal or undermine the Affordable Care Act during Trump's presidency, the specific number of attempts being exactly 60 is not verifiable and likely exaggerated."
+'statement': 'why did the administration wait until months before the election to act. And would you have done anything differently from President Biden?', 
+'result': False, 
+'reason': 'The statement implies that the Biden administration only acted on border security and asylum restrictions months before an election, which is not accurate. The Biden administration has been addressing immigration issues throughout its tenure, implementing various policies and measures over time. The timing of specific actions does not necessarily correlate with election cycles.'
 }
 {
-    'statement': "I will never forget the early morning hours when it was up for a vote in the United States Senate and the late great John McCain, who you have disparaged, As being, you don't like him, you said, at the time, because he got... caught he was an American hero the late great John McCain I will never forget that night.",
-    'result': True,
-    'reason': "John McCain cast a crucial 'no' vote in the early morning hours of July 28, 2017, which helped defeat the repeal of the Affordable Care Act. Donald Trump has publicly disparaged John McCain on multiple occasions, including criticizing him for being captured during the Vietnam War."
+'statement': 'The United States Senate came up with a border security bill which I support. it. And that bill would have put 1,500 more border agents on the board to help those folks who are working there right now over time trying to do their job. it would have allowed us to stem the flow of fentanyl coming in. to the United States.', 
+'result': True, 
+'reason': 'There have been multiple border security bills proposed in the U.S. Senate, some of which included provisions for increasing the number of border agents and addressing drug smuggling issues, including fentanyl. The statement aligns with typical legislative efforts to enhance border security and support law enforcement.'
 }
 {
-    'statement': "walked onto the Senate floor and said, no you dont, no you dont. No you dont. No you dont get rid of the Affordable Care Act. You have no plan. and deny people with pre-existing conditions.",
-    'result': True,
-    'reason': "Kamala Harris is referring to John McCain's dramatic 'thumbs down' vote on the Senate floor in July 2017, which effectively stopped the repeal of the Affordable Care Act. McCain's vote was seen as a defense of the ACA, which includes protections for people with pre-existing conditions. While he didn't literally say 'no you don't' repeatedly, his action conveyed that message."
+'statement': 'Donald Trump got on the phone called up some folks in Congress and said kill the bill and you know why? Because hed prefer to run on a problem instead of fixing a problem.', 
+'result': False, 
+'reason': 'There is no verifiable evidence or public record to support the claim that Donald Trump personally intervened by calling members of Congress to kill a specific border security bill. While it is possible for political figures to influence legislative processes behind the scenes, this specific allegation lacks concrete proof.'
 }
 {
-    'statement': "Donald Trump said he was going to allow Medicare to negotiate drug prices? He never did. We did.",
-    'result': True,
-    'reason': "While Donald Trump did propose allowing Medicare to negotiate drug prices, it was never implemented during his presidency. The Biden administration, with Kamala Harris as Vice President, has made strides in this area, including provisions in the Inflation Reduction Act of 2022 that allow Medicare to negotiate some prescription drug prices."
+'statement': 'why did you try to kill that bill and successfully? that would have put thousands of additional agents and officers on the border.', 
+'result': False, 
+'reason': 'There is no verifiable evidence or public record indicating that Donald Trump personally intervened to kill a specific border security bill that would have added thousands of additional agents and officers. Without concrete proof or documentation, this claim cannot be substantiated.'
 }
 {
-    'statement': "Since I've been vice president, we have capped the cost of insulin at $35 a month. And we have capped the cost of prescription drugs for seniors at $2,000 a year.",
-    'result': True,
-    'reason': "The Inflation Reduction Act of 2022, signed into law during Joe Biden's presidency with Kamala Harris as Vice President, includes provisions that cap the cost of insulin at $35 a month for Medicare beneficiaries and sets an annual out-of-pocket cap of $2,000 on prescription drug costs for seniors starting in 2025."
+'statement': 'what they have done to our country by... by allowing these millions and millions of people to come into our country and look at whats... happening to the towns all over the United States. And a lot of towns dont want to talk. Its not going to be a rule. or Springfield. A lot of towns dont want to talk about it because theyre so embarrassed by it.', 
+'result': False, 
+'reason': 'While it is true that the U.S. has experienced significant immigration, the claim that towns are "so embarrassed" by the situation that they do not want to talk about it is subjective and lacks concrete evidence. Furthermore, the statement implies a uniformly negative impact on towns across the U.S., which is an oversimplification. The effects of immigration can vary widely depending on local contexts and perspectives.'
 }
-{'statement': 'They get all this money from Ukraine. They get all this money from all of these different countries. And then you wonder why is he so loyal to this one that when Ukraine China Why is he? Why did he get three and a half million dollars from the mayor of Moscows wife? Why did he get, why did she pay him three and a half million dollars? This is a crooked administration and theyre selling our country down the tubes.', 'result': False, 'reason': 'There is no verified evidence that Joe Biden or his family received $3.5 million from the wife of the former mayor of Moscow. This claim has been widely disputed and debunked by fact-checkers.'}
 {
-  'statement': "I started my career as a prosecutor. I was a DA, I was an attorney general. United States Senator and now Vice President. Ive only had one client the people and Ill tell you, as a prosecutor, I never asked a victim or witness Are you a Republican or a Democrat? The only thing I ever ask them, are you okay?",
-  'result': True,
-  'reason': "Kamala Harris's career history is accurate: she started as a prosecutor, served as District Attorney (DA) of San Francisco, Attorney General of California, U.S. Senator, and is currently the Vice President. Additionally, it is plausible and consistent with professional norms that she did not inquire about the political affiliations of victims or witnesses in her prosecutorial role."
+'statement': 'in Springfield, theyre eating the dogs, the people that came in. the cats, theyre eating, theyre eating the pets of the people. that live there. And this is whats happening in our country, and its a shame.', 
+'result': False, 
+'reason': 'There is no credible evidence or verified reports to support the claim that immigrants in Springfield are eating the pets of local residents. This statement is highly inflammatory and lacks any factual basis. It appears to be an attempt to incite fear and xenophobia.'
 }
+{
+'statement': 'You bring up Springfield, Ohio, and ABC News did reach out to the city manager there. he told us there had been no credible reports of specific claims of pets being harmed, injured.', 
+'result': True, 
+'reason': 'ABC News did reach out to the city manager of Springfield, Ohio, who confirmed that there had been no credible reports of pets being harmed or injured by immigrants. This aligns with the factual situation as verified by news sources.'
+}
+{
+'statement': 'Springfield City Manager says theres no evidence of that.', 
+'result': True, 
+'reason': 'The Springfield City Manager has indeed stated that there is no evidence to support claims of pets being harmed or eaten by immigrants. This statement aligns with the verified information provided by local authorities and reported by news outlets.'
+}
+{
+'statement': 'in this election, I actually have the end... of 200 Republicans who have formally worked with us. with President Bush, Mitt Romney, and John McCain, including the endorsement of the of former Vice President Dick Cheney and Congressmember Liz Cheney.', 
+'result': True, 
+'reason': 'It is true that Kamala Harris and the Biden administration have received endorsements from a number of Republicans, including prominent figures like former Vice President Dick Cheney and Congresswoman Liz Cheney. Many Republicans who have worked with past Republican presidents such as George W. Bush, Mitt Romney, and John McCain have also expressed support for the Biden-Harris administration.'
+}
+{
+'statement': 'if you want to really know the inside track on who the former president is, if he didnt make it clear already, just ask people who have worked with him. His former chief of staff of four star general has said he has contempt for his actions. dangerous and unfit.', 
+'result': True, 
+'reason': 'Several high-ranking officials who previously worked with Donald Trump, including his former Chief of Staff, General John Kelly, have publicly criticized him. General Kelly has indeed expressed severe disapproval of Trump�s actions and characterized him as dangerous and unfit for office.'
+}
+{
+'statement': 'Yeah, it is much higher because', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that the number of undocumented immigrants in the United States is significantly higher than the commonly cited estimate of around 11 million. Estimates from reputable sources like the Pew Research Center and the Department of Homeland Security typically place the number in the range of 10-12 million.'
+}
+{
+'statement': 'They allowed criminals, many, many millions of criminals. They allowed dealers to come into our country and then now in the United States and told by their countries like Venezuela dont ever come back or were going to kill you', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that "many, many millions" of criminals or dealers have been allowed into the United States. Additionally, while some individuals may face threats if they return to their home countries, there is no verifiable data to substantiate the claim that countries like Venezuela explicitly tell criminals not to return under threat of death.'
+}
+{
+'statement': 'Theyve taken their criminals off the street and theyve given them to her to put into our country.', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that other countries are systematically sending their criminals to the United States. This assertion is not backed by any credible data or reports. Immigration policies and enforcement mechanisms do not support the notion that foreign governments are deliberately offloading criminals into the U.S.'
+}
+{
+'statement': 'Crime is down all over the world except here. Crime here is up and through the roof. despite their fraudulent statements that they made, crime in this country is through the roof. and we have a new form of crime, its called migrant crime, and its happening at levels that nobody thought possible.', 
+'result': False, 
+'reason': 'Recent reports, such as those from the Major Cities Chiefs Association, indicate that overall violent crime in the U.S. has decreased, including a significant drop in homicides. The assertion that crime is "through the roof" contradicts these findings. Additionally, there is no substantial evidence to support the claim that there is a new form of "migrant crime" occurring at unprecedented levels.'
+}
+{
+'statement': 'the cities they didnt include the cities with the worst crime it was a fraud Just like their number of 818,000 jobs that they said they created turned out to be', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that crime statistics were manipulated by excluding cities with the worst crime. Crime data is typically compiled from a wide range of cities and jurisdictions. Additionally, the claim about the creation of 818,000 jobs being fraudulent lacks supporting evidence. Job creation numbers are usually verified through multiple independent sources, including government agencies and economic research institutions.'
+}
+{
+'statement': 'has been found liable for sexual assault', 
+'result': True, 
+'reason': 'Donald Trump was found liable for sexual abuse and defamation in a civil case brought by E. Jean Carroll. A jury awarded Carroll $5 million in damages in May 2023.'
+}
+{
+'statement': 'Vice President called for defunding federal law enforcement 45 thousand agents, get this, on the day after he was arranged on thirty- or felony counts.', 
+'result': False, 
+'reason': 'There is no verifiable evidence to support the claim that the Vice President called for defunding federal law enforcement or 45,000 agents. Additionally, there is no record of such a statement being made the day after being arraigned on felony counts. This appears to be a mischaracterization or fabrication.'
+}
+{
+'statement': 'every one of those cases was started by them against their political opponent.', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that every legal case against Donald Trump was initiated by political opponents. Legal proceedings are typically based on investigations conducted by law enforcement agencies and prosecutors who are expected to operate independently of political influence. This statement lacks verifiable proof and is likely an overgeneralization.'
+}
+{
+'statement': 'and Im winning most of them and I will win the rest on appeal. And you saw that with the decision that came. down just recently from the Supreme Court.', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that Donald Trump is winning most of his legal cases or that a recent Supreme Court decision has been in his favor regarding these cases. Legal outcomes are determined on a case-by-case basis, and many of the cases involving Trump are ongoing or have resulted in unfavorable rulings for him. The statement appears to be an exaggeration without factual backing.'
+}
+{
+'statement': 'Joe Biden was found essentially guilty on the documents case.', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that Joe Biden was found "essentially guilty" in any documents case. As of now, there have been no legal proceedings or findings against Joe Biden regarding a documents case. This statement is misleading and not based on verified facts.'
+}
+{
+'statement': 'The United States Supreme Court recently ruled that the former president would essentially be immune from any misconduct.', 
+'result': False, 
+'reason': 'There has been no recent ruling by the United States Supreme Court declaring that a former president would be essentially immune from any misconduct. Legal accountability for former presidents remains subject to judicial processes, and no such blanket immunity has been granted.'
+}
+{
+'statement': 'this is someone who has openly said he would terminate, Im quoting, terminate the Constitution of the United States.', 
+'result': True, 
+'reason': 'Donald Trump did suggest on his social media platform that parts of the U.S. Constitution should be terminated in response to his claims of election fraud. This statement was widely reported and criticized.'
+}
+{
+'statement': 'probably took a bullet to their head because of the things that they say about me.', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that anyone has "probably took a bullet to their head" because of things they said about Donald Trump. This statement appears to be hyperbolic and lacks any factual basis.'
+}
+{
+'statement': 'in your last run for president, you said you wanted to ban fracking. now you dont. You wanted mandatory government buyback programs for assault weapons, now youre campaign says you dont. You supported decriminalizing border crossings.', 
+'result': True, 
+'reason': 'During her 2020 presidential campaign, Kamala Harris did express support for banning fracking, implementing mandatory buyback programs for assault weapons, and decriminalizing border crossings. However, her positions on these issues have evolved over time, and she has moderated some of her stances since then.'
+}
+{
+'statement': 'I made that very clear in 2020. I will not ban fracking. I have not.', 
+'result': False, 
+'reason': 'During her 2020 presidential campaign, Kamala Harris did express support for banning fracking. This statement contradicts her past position on the issue.'
+}
+{
+'statement': 'Inflation Reduction Act, which opened new leases for fracking.', 
+'result': True, 
+'reason': 'The Inflation Reduction Act of 2022 includes provisions that open new leases for oil and gas drilling, including fracking. This was part of a compromise to gain support for the broader climate and energy initiatives within the bill.'
+}
+{
+'statement': 'we are going to work with the private sector and home builders to increase the cost of living. Increase 3 million homes, increase by 3 million homes by the end of my first term.', 
+'result': False, 
+'reason': 'It is unlikely that Kamala Harris would advocate for increasing the cost of living as a policy goal. The statement appears to be a miscommunication or error. Increasing the number of homes by 3 million is a more plausible objective to address housing shortages.'
+}
+{
+'statement': 'My values have not changed.', 
+'result': True, 
+'reason': 'Kamala Harris stating that her values have not changed is a subjective statement about her personal beliefs and integrity. Without evidence to the contrary, it is reasonable to accept her assertion about her own values.'
+}
+{
+'statement': 'I wasnt given $400 million. I wish I was. My father was a Brooklyn-Belarusian. the Brooklyn Queens and a great father and I learned a lot from him but I was given a fraction of that.', 
+'result': False,
+'reason': 'Donald Trump has claimed various amounts regarding the inheritance from his father. According to a New York Times investigation, Donald Trump received at least $413 million (adjusted for inflation) from his father over the years through various financial maneuvers. This contradicts his claim of receiving only a fraction of $400 million.'
+}
+{
+'statement': 'Shes been against it for 12 years. Defund the police. Shes been against it for 12 years.', 
+'result': False, 
+'reason': 'Kamala Harris has not been advocating for defunding the police for 12 years. In fact, her record as a prosecutor and Attorney General of California shows support for law enforcement. The "defund the police" movement gained prominence in 2020, and Harris has expressed support for police reform rather than defunding.'
+}
+{
+'statement': 'she was big on defund the police. In Minnesota, she went out... and wanted to let criminals that killed people that burned down Minneapolis.', 
+'result': False, 
+'reason': 'Kamala Harris has not been a proponent of defunding the police. While she has supported police reform and measures for accountability, there is no evidence that she advocated for letting criminals who killed people or burned down Minneapolis go free.'
+}
+{
+'statement': 'She went out and raised money to get him out of jail. She did things that nobody would ever think of. Now she wants to do transgender operations on illegal aliens that are in prison. to confiscate your guns and she will never allow fracking in Pennsylvania. the election fracking in Pennsylvania will end on day one.', 
+'result': False, 
+'reason': 'Kamala Harris did support a bail fund during the George Floyd protests, but there is no evidence she personally raised money to release violent criminals. There is also no evidence supporting claims that she wants to mandate transgender operations for undocumented immigrants in prison or confiscate guns. Regarding fracking, while her stance has evolved, she has stated she does not intend to ban fracking outright.'
+}
+{
+'statement': 'I got the oil business going like... Nobody has ever done before. They took, when they took over, they got rid of it. of getting rid of it and the prices were going up the roof.', 
+'result': False, 
+'reason': 'While Donald Trump did implement policies favorable to the oil industry, such as deregulation and opening up more land for drilling, it is an exaggeration to say "nobody has ever done before." The oil industry has been a significant part of U.S. policy for decades. Additionally, the claim that the subsequent administration "got rid of it" and caused prices to go "up the roof" oversimplifies complex market dynamics influenced by global factors, including the COVID-19 pandemic.'
+}
+{
+'statement': 'But if she won the election, the day after that election, theyll go back to destroy growing our country, and oil will be dead, fossil fuel will be dead. Well go back to windmills and well go back to... solar where they need a whole desert to get some energy to come out.', 
+'result': False, 
+'reason': 'This statement is an exaggeration and not based on factual evidence. While a shift towards renewable energy sources like wind and solar is part of many political agendas, it is unrealistic to claim that fossil fuels would be completely eliminated immediately after an election. Transitioning energy sources is a gradual process and involves complex economic and infrastructural considerations.'
+}
+{
+'statement': 'solar plant, by the way Im a big fan of solar, but they take 400,000 solar plants, 500 acres of desert soil. These are not good things for the environment.', 
+'result': False, 
+'reason': 'The statement contains inaccuracies and exaggerations. Solar plants do require land, but the claim that 400,000 solar plants each take 500 acres of desert soil is not accurate. Additionally, while large-scale solar installations do have environmental impacts, they are generally considered more environmentally friendly compared to fossil fuels due to their lower greenhouse gas emissions.'
+}
+{
+'statement': 'You told your supporters to march to the Capitol. You said you would be right there with them. The country and the world saw what played out of the capital that day. The officers coming under attack. AIDS in the West Wing say you watched it unfold on television off the Oval Office. You did send out tweets, but it was more than... two hours before you send out that video message telling your supporters to go home.', 
+'result': True, 
+'reason': 'On January 6th, 2021, Donald Trump did tell his supporters to march to the Capitol during a rally. He also said he would be with them, although he did not go to the Capitol himself. The events at the Capitol were widely broadcast, showing officers under attack. Reports indicate that Trump watched the events unfold on television. It took more than two hours before he released a video message asking his supporters to go home.'
+}
+{
+'statement': 'Ashley Babbitt was shot by an out-of-control police officer. police officer that should have never, ever shot her. Its a disgrace.', 
+'result': False, 
+'reason': 'Ashley Babbitt was shot by a Capitol Police officer during the January 6th riot as she attempted to breach a barricaded door near the Speaker\'s Lobby. The Department of Justice concluded that the officer acted in self-defense and in defense of others present, and no charges were filed against the officer. The characterization of the officer as "out-of-control" and the shooting as unjustified is not supported by official investigations.'
+}
+{
+'statement': 'she was the border czar remember that she was the border czar she doesnt want to be called borders are because shes embarrassed by the border.', 
+'result': False, 
+'reason': 'Vice President Kamala Harris was tasked with addressing the root causes of migration from Central America, not managing the U.S.-Mexico border directly. The term "border czar" is a mischaracterization of her role. She has not publicly stated that she is embarrassed by the border situation.'
+}
+{
+'statement': "fired by 81 million people. So lets be clear about that. And clearly, he is having a very difficult time processing that. But we cannot afford to let him do that. to have a president of the United States who attempts to as he did in the past to upend the will of the voters in a free and fair way. election.",
+'result': True,
+'reason': "Joe Biden received approximately 81 million votes in the 2020 presidential election, which was more than any other candidate in U.S. history. The statement refers to Donald Trump's attempts to challenge the election results, which included numerous lawsuits and public claims of election fraud, none of which were substantiated by evidence."
+}
+{
+'statement': "Shes a tough person, smart. Prime Minister of Hungary, they said, Why is the whole world blowing up? Three years ago it wasnt. Why is it blowing up? him. of him. North Korea was afraid of him. Look at whats going on with North Korea by the way.",
+'result': False,
+'reason': "The statement contains several assertions that are either subjective or not supported by evidence. The claim that 'the whole world is blowing up' and attributing it to a specific individual lacks context and factual basis. Additionally, the idea that 'North Korea was afraid of him' is speculative and not verifiable. The reference to current events in North Korea also lacks specific details to be fact-checked."
+}
+{
+'statement': "He said Russia was afraid of him. I ended the Nord Stream 2 pipeline and Biden put it back on day one, but he ended the XL pipeline. The XL pipeline is a big problem. going all over Europe and heading into Germany, the biggest pipeline in the world. Victor Orban said it. He said the most respected most feared",
+'result': False,
+'reason': "Several inaccuracies are present in this statement. Donald Trump did not end the Nord Stream 2 pipeline; construction continued during his presidency and was nearly complete when Joe Biden took office. Biden did not 'put it back on day one'; his administration waived sanctions on the company overseeing the project later on. The Keystone XL pipeline permit was revoked by Biden on his first day in office, but it is unrelated to Nord Stream 2. The claim that the Nord Stream 2 pipeline is 'the biggest pipeline in the world' is also inaccurate. Additionally, attributing statements to Viktor Orb�n without specific evidence or context makes them unverifiable."
+}
+{
+'statement': "We had no problems when Trump was president. But when this weak pathetic man that you saw at a debate just a few days ago months ago that if he werent in that debate hed be running instead of her. She got no votes. He got 14 million votes. What you did, you talk about a threat to democracy. He got 14 million votes. votes and they threw him out of office and you know what Ill give you a little secret he hates her.",
+'result': False,
+'reason': "The statement contains several inaccuracies and subjective claims. The assertion that 'we had no problems when Trump was president' is subjective and not factually accurate; various issues and crises occurred during his tenure. The claim about '14 million votes' is ambiguous and lacks context�if referring to the 2020 election, Donald Trump received approximately 74 million votes, not 14 million. The statement about being 'thrown out of office' misrepresents the democratic process of an election. Additionally, personal sentiments attributed to unnamed individuals ('he hates her') are unverifiable."
+}
+{
+'statement': "cant stand her. But he got 14 million votes, they threw him out. zero votes and when she ran she was the first one to leave because she was failed and now shes running. I dont understand it but Im okay with it because... I think were going to do very well. Weve got a lot more to get to. Turning now to the Israel Hamas war and the hostilities. who are still being held Americans among them. Vice President Harris in December used",
+'result': False,
+'reason': "The statement contains several inaccuracies and lacks context. The claim that someone 'got 14 million votes' and was 'thrown out' is ambiguous and misleading. If referring to the 2020 election, Donald Trump received approximately 74 million votes. The assertion that 'she got zero votes' and was 'the first one to leave' is unclear without specifying who 'she' is, but if referring to Kamala Harris, she did drop out of the Democratic primary before any votes were cast. The statement about the Israel-Hamas conflict lacks specific details and context to verify. Overall, the statement is disjointed and contains unverifiable personal sentiments."
+}
+{
+'statement': "Jewish people, Israel, Israel will be gone. It would have never been possible. happened Iran was broke under Donald Trump now Iran has three $100 billion because they took off all the sanctions that I had Iran had no for Hamas or Hezbollah or any of the 28 different spheres. of terror and they are spheres of terror, horrible terror. They had no money.",
+'result': False,
+'reason': "The statement contains several inaccuracies. While it is true that the Trump administration imposed heavy sanctions on Iran, it is not accurate to say that Iran had 'no money' for Hamas or Hezbollah or that they were completely broke. Additionally, the claim that Iran now has $100 billion due to lifted sanctions is not substantiated by available evidence. The overall assertion that Israel would be gone without these actions is speculative and not based on concrete facts."
+}
+{
+'statement': "It was a big story and you know it. You covered it very well actually. They had no money. for terror. They were broke. Now theyre a rich nation and now What theyre doing is theyre spreading that money around. Look at whats happening with... the Houthis and Yemen. Look at whats going on in the Middle East. This would have never happened. happened.",
+'result': False,
+'reason': "While it is true that the Trump administration imposed significant sanctions on Iran, which affected its economy, it is not accurate to say that Iran had 'no money' for terror or that they were completely broke. Iran continued to support groups like Hezbollah and the Houthis during this period. The claim that Iran is now a 'rich nation' due to lifted sanctions is not substantiated by available evidence. Economic conditions in Iran remain challenging, and while sanctions relief might provide some economic benefits, it does not equate to Iran becoming a rich nation."
+}
+{
+'statement': "that Donald Trump is weak and wrong on national security and foreign policy. It is well known that he admires dictators, wants to be a dictator. on day one according to himself, it is well known that he said of Putin that he can do whatever the hell he wants and go into Ukraine. It is well known that he said when Russia went into Ukraine.",
+'result': False,
+'reason': "The statement contains several elements that require clarification. While it is true that Donald Trump has expressed admiration for certain authoritarian leaders, the claim that he wants to be a dictator is speculative and not based on definitive evidence. Additionally, there is no record of Trump explicitly saying that Vladimir Putin can 'do whatever the hell he wants and go into Ukraine.' He did make controversial statements about Putin and Russia's actions in Ukraine, but the specific quotes mentioned are not accurate. The overall characterization of Trump as weak on national security and foreign policy is subjective and not a verifiable fact."
+}
+{
+'statement': "military leaders who you have worked with have told me you are a disgrace That is why we understand that we have to have a president who is not consistently weak and wrong on national security, including the importance of the international community. of upholding and respecting in highest regard our military. Vice President. Thank you.",
+'result': False,
+'reason': "The statement that military leaders who you have worked with have told me you are a disgrace is unverifiable and lacks concrete evidence. While some military leaders have publicly criticized Donald Trump, attributing this specific sentiment directly to unnamed military leaders without evidence makes the statement speculative. The rest of the statement reflects Kamala Harriss opinion on the need for strong national security and respect for the military, which is subjective."
+}
+{
+'statement': "or national security by allowing every nation last month for the year a 168 different countries sending people into our country. Their crime weights are... down. because what hes gotten away with is absolutely incredible. It wouldnt have happened without him. with me. The leaders of other countries think that theyre weak and in",
+'result': False,
+'reason': "The statement that 168 different countries sending people into our country is not substantiated by specific evidence. Additionally, the claim that their crime weights are... down is vague and lacks context or supporting data. The assertion that it wouldn't have happened without him and that 'the leaders of other countries think that they're weak' is speculative and subjective. These points make the overall statement unverifiable and largely opinion-based."
+}
+{
+'statement': "incompetent, and they are. Theyre grossly incompetent. And I just ask one question. Why does Biden go in and kill the Keystone pipeline and approve the single-billion-dollar and all over Europe because theyre weak and theyre ineffective and Biden the way gets paid a lot of money.",
+'result': False,
+'reason': "The statement contains several inaccuracies and unsubstantiated claims. While it is true that President Joe Biden revoked the permit for the Keystone XL pipeline, the claim that he 'approved the single-billion-dollar and all over Europe' is vague and lacks context. Additionally, the assertion that Biden 'gets paid a lot of money' is an unsubstantiated accusation without evidence. The statement also includes subjective opinions about competence that cannot be verified as factual."
+}
+{
+'statement': 'I want to save lives that are being uselessly people. being killed by the millions. Its the millions. Its so much worse than the numbers. that youre getting, which are fake numbers.', 
+'result': False, 
+'reason': 'There is no evidence to support the claim that millions of people are being killed in the current conflicts mentioned. The numbers available from reliable sources do not support this statement.'
+}
+{
+'statement': 'They paid billions and billions hundreds of billions of dollars when I said, either you pay up or were not going to protect you anymore.', 
+'result': False,
+'reason': 'While it is true that Donald Trump pressured NATO allies to increase their defense spending, the claim that they paid "hundreds of billions of dollars" as a direct result of his ultimatum is exaggerated. NATO members did increase their defense budgets, but the total increase was not in the hundreds of billions.'
+}
+{
+'statement': 'He hasnt even made a phone call in two years to Putin, hasnt spoken to anybody.', 
+'result': False, 
+'reason': 'There is no public record or evidence to support the claim that President Biden has not made a phone call to Putin or spoken to anyone in two years. In fact, President Biden and Putin have had several interactions and communications since Biden took office.'
+}
+{
+'statement': 'Four presidents said they would, and Joe Biden did. And as a result... Americas taxpayers are not paying the 300 million dollars a day we were paying for that', 
+'result': True, 
+'reason': 'President Biden did execute the withdrawal from Afghanistan, which had been a goal stated by previous presidents. Additionally, the U.S. was spending significant amounts of money on the war in Afghanistan, and the figure of $300 million a day is within the range of estimates provided by various sources.'
+}
+{
+'statement': 'He bypassed the Afghan government. He negotiated with the Afghan government. involved the Taliban getting 5,000 terrorists, Taliban terrorists released.', 
+'result': True, 
+'reason': 'The Trump administration did negotiate directly with the Taliban, bypassing the Afghan government in the process. As part of the agreement, the U.S. agreed to the release of up to 5,000 Taliban prisoners.'
+}
+{
+'statement': 'who spread birther lies about the first black president of the United States.',
+'result': True,
+'reason': 'Donald Trump was a prominent figure in promoting the "birther" conspiracy theory, which falsely claimed that Barack Obama, the first black president of the United States, was not born in the U.S.'
+}
+{
+"statement": "$6,000 for young families for the first year of your child's life. plan that is about allowing people to be able to pursue what been fleeting in terms of the American dream by offering a help with down payment of $25,000 down payment assistance for first time home buyers.",
+"result": False,
+"reason": "There is no evidence or record of a policy or plan from Donald Trump offering $6,000 for young families for the first year of a child's life or a $25,000 down payment assistance for first-time home buyers."
+}
+{
+'statement': "When Donald Trump was president, six years ago, 60 times he tried to get rid of the Affordable Care Act. 60 times.",
+'result': False,
+'reason': "Donald Trump became president in January 2017, which is less than six years ago from today. Additionally, while there were numerous attempts to repeal or undermine the Affordable Care Act during Trump's presidency, the specific number of attempts being exactly 60 is not verifiable and likely exaggerated."
+}
+{
+'statement': "I will never forget the early morning hours when it was up for a vote in the United States Senate and the late great John McCain, who you have disparaged, As being, you don't like him, you said, at the time, because he got... caught he was an American hero the late great John McCain I will never forget that night.",
+'result': True,
+'reason': "John McCain cast a crucial 'no' vote in the early morning hours of July 28, 2017, which helped defeat the repeal of the Affordable Care Act. Donald Trump has publicly disparaged John McCain on multiple occasions, including criticizing him for being captured during the Vietnam War."
+}
+{
+'statement': "walked onto the Senate floor and said, no you dont, no you dont. No you dont. No you dont get rid of the Affordable Care Act. You have no plan. and deny people with pre-existing conditions.",
+'result': True,
+'reason': "Kamala Harris is referring to John McCain's dramatic 'thumbs down' vote on the Senate floor in July 2017, which effectively stopped the repeal of the Affordable Care Act. McCain's vote was seen as a defense of the ACA, which includes protections for people with pre-existing conditions. While he didn't literally say 'no you don't' repeatedly, his action conveyed that message."
+}
+{
+'statement': "Donald Trump said he was going to allow Medicare to negotiate drug prices? He never did. We did.",
+'result': True,
+'reason': "While Donald Trump did propose allowing Medicare to negotiate drug prices, it was never implemented during his presidency. The Biden administration, with Kamala Harris as Vice President, has made strides in this area, including provisions in the Inflation Reduction Act of 2022 that allow Medicare to negotiate some prescription drug prices."
+}
+{
+'statement': "Since I've been vice president, we have capped the cost of insulin at $35 a month. And we have capped the cost of prescription drugs for seniors at $2,000 a year.",
+'result': True,
+'reason': "The Inflation Reduction Act of 2022, signed into law during Joe Biden's presidency with Kamala Harris as Vice President, includes provisions that cap the cost of insulin at $35 a month for Medicare beneficiaries and sets an annual out-of-pocket cap of $2,000 on prescription drug costs for seniors starting in 2025."
+}
+{
+'statement': 'They get all this money from Ukraine. They get all this money from all of these different countries. And then you wonder why is he so loyal to this one that when Ukraine China Why is he? Why did he get three and a half million dollars from the mayor of Moscows wife? Why did he get, why did she pay him three and a half million dollars? This is a crooked administration and theyre selling our country down the tubes.', 
+'result': False, 
+'reason': 'There is no verified evidence that Joe Biden or his family received $3.5 million from the wife of the former mayor of Moscow. This claim has been widely disputed and debunked by fact-checkers.'
+}
+{
+'statement': "I started my career as a prosecutor. I was a DA, I was an attorney general. United States Senator and now Vice President. Ive only had one client the people and Ill tell you, as a prosecutor, I never asked a victim or witness Are you a Republican or a Democrat? The only thing I ever ask them, are you okay?",
+'result': True,
+'reason': "Kamala Harris's career history is accurate: she started as a prosecutor, served as District Attorney (DA) of San Francisco, Attorney General of California, U.S. Senator, and is currently the Vice President. Additionally, it is plausible and consistent with professional norms that she did not inquire about the political affiliations of victims or witnesses in her prosecutorial role."
+}
+
