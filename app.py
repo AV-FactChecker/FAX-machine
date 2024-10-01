@@ -10,7 +10,7 @@ import ast
 home_dir = os.path.expanduser("~")
 relative_path = "\\OneDrive\\Desktop\\AudioExtractor\\AudioExtractor.exe"
 AudioExtractor_path = home_dir + relative_path
-AudioExtractor_ZIP = "AudioExtractor.zip"
+AudioExtractor_ZIP = "AudioRecorder.exe"
 transcript_path = "transcript.txt"
 fact_checks_path = "fact_checks.txt"
 
@@ -21,11 +21,11 @@ with st.expander("Click Here to View/Hide Instructions"):
     st.write("First we need to be able to collect audio. To do this, download the following zip file.")
     
     # Read the zip file as binary
-    with open(AudioExtractor_ZIP, "rb") as file:
+    with open(AudioExtractor_path, "rb") as file:
         zip_data = file.read()
 
     # Create a download button for the zip file
-    st.download_button(label="Download ZIP File", data=zip_data, file_name="AudioExtractor.zip", mime="application/zip")
+    st.download_button(label="Download Audio Recorder", data=zip_data, file_name="AudioRecorder.exe", mime="application/exe")
 
     st.write("Once it has been downloaded, right click on the .zip file in File Explorer, and hit \"Extract All\"")
     st.image("Images/Extract.jpg", caption="Extract All is indicated by the red box.")
