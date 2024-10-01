@@ -27,7 +27,7 @@ index1 = pc.Index("factcheck-article-data-tvisha-avhs")
 index2 = pc.Index("vp-factcheck-article-data-tvisha-avhs")
 
 client = OpenAI(
-    api_key = "{{ secrets.OPEN_AI_KEY }}"
+    api_key = "{{ secrets.OPENAI_API_KEY }}"
 )
 
 bm25 = BM25Encoder()
