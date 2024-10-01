@@ -1,21 +1,21 @@
 import os, time, sys, io
 import whisper
 from torch import *
-from speakerNameStruct import SpeakerNameWithText
-from readFile import WriteFile
+# from speakerNameStruct import SpeakerNameWithText
+# from readFile import WriteFile
 
 # from newsapi import NewsApiClient
 # import ast
 import json
 from pinecone.grpc import PineconeGRPC as Pinecone
-from pinecone import Pinecone, ServerlessSpec
+from pinecone import Pinecone # ServerlessSpec
 # from transformers import BertTokenizer, BertModel, AutoModel
 from pinecone_text.sparse import BM25Encoder
 import nltk
 nltk.download('punkt_tab')
 from openai import OpenAI
-from transformers import DPRContextEncoder, DPRContextEncoderTokenizer, \
-                         DPRQuestionEncoder, DPRQuestionEncoderTokenizer
+# from transformers import DPRContextEncoder, DPRContextEncoderTokenizer, \
+#                          DPRQuestionEncoder, DPRQuestionEncoderTokenizer
 from sentence_transformers import SentenceTransformer
 import wikipedia
 
