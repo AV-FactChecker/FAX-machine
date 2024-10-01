@@ -37,8 +37,8 @@ with st.expander("Click Here to View/Hide Instructions"):
 speaker = ""
 with st.container():
     # Button to start displaying the text file content
-    start_monitoring_dt = st.button("View Transcript/Fact Checks For Tim Walz")
-    start_monitoring_kh = st.button("View Transcript/Fact Checks For JD Vance")
+    start_monitoring_dt = st.button("View Transcript/Fact Checks For JD Vance")
+    start_monitoring_kh = st.button("View Transcript/Fact Checks For Tim Walz")
 
     # Initialize monitoring state if not already
     if 'monitoring' not in st.session_state:
