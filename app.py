@@ -108,7 +108,7 @@ with st.container():
                             factchecks += "FAKE NEWS ALERT: " + factdict["statement"] + "\n" + "REASON: " + factdict["reason"] + "\n"
                             if factdict["statement"] not in factstatementlist:
                                 factcheck_dataframe = pd.DataFrame({
-                                    "SPEAKER" : [factdict["speaker"]],
+                                    "SPEAKER" : [speaker],
                                     "STATEMENT" : [factdict["statement"]],
                                     "REASON" : [factdict["reason"]]
                                 })
