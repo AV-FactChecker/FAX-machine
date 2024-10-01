@@ -37,8 +37,8 @@ with st.expander("Click Here to View/Hide Instructions"):
 speaker = ""
 with st.container():
     # Button to start displaying the text file content
-    start_monitoring_dt = st.button("View Transcript/Fact Checks For Donald Trump")
-    start_monitoring_kh = st.button("View Transcript/Fact Checks For Kamala Harris")
+    start_monitoring_dt = st.button("View Transcript/Fact Checks For Tim Walz")
+    start_monitoring_kh = st.button("View Transcript/Fact Checks For JD Vance")
 
     # Initialize monitoring state if not already
     if 'monitoring' not in st.session_state:
@@ -47,10 +47,10 @@ with st.container():
     # Start monitoring when the button is pressed
     if start_monitoring_dt:
         st.session_state.monitoring = True
-        speaker = "Donald Trump: "
+        speaker = "JD Vance: "
     if start_monitoring_kh:
         st.session_state.monitoring = True
-        speaker = "Kamala Harris: "
+        speaker = "Tim Walz: "
     with open("speaker.txt", "w") as spkfile:
             spkfile.write(speaker)
 
