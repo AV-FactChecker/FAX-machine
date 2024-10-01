@@ -22,11 +22,12 @@ import wikipedia
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 #pinecone stuff 
-pc = Pinecone(api_key="${{secrets.PINECONE_API_KEY}}")
-index = pc.Index("factcheck-article-data-tvisha-avhs")
+pc = Pinecone(api_key="553e01e3-7e1a-46f3-ba75-098d1d9288df")
+index1 = pc.Index("factcheck-article-data-tvisha-avhs")
+index2 = pc.Index("vp-factcheck-article-data-tvisha-avhs")
 
 client = OpenAI(
-    api_key = "${{secrets.OPENAI_API_KEY}}"
+    api_key = "{{ secrets.OPEN_AI_KEY }}"
 )
 
 bm25 = BM25Encoder()
@@ -57,12 +58,20 @@ def get_context_wiki(statement):
 
 
 def get_context_news(topic):
-    result = index.query(
+    result1 = index1.query(
         vector = generate_dense(topic).tolist(),
         top_k=10,
         include_values=False,
         include_metadata=True
     )
+    result2 = index2.query(
+        vector = generate_dense(topic).tolist(),
+        top_k=10,
+        include_values=False,
+        include_metadata=True
+    )
+
+    result = result1 + result2
 
     matched_info = ' '.join(item['metadata']['text'] for item in result['matches'])
 
