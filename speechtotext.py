@@ -263,7 +263,7 @@ while isRunning:
         # Print the transcription
         print(result["text"])
 
-        if file_counter == 5:
+        if file_counter == 2:
             # i becomes the temp transcript, which stores the text for 5 files
             with open("speaker.txt", "r") as sp:
                 speaker = sp.read()
