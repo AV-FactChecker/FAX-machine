@@ -8,7 +8,7 @@ import ast
 
 # Get location of folders and files
 home_dir = os.path.expanduser("~")
-relative_path = "\\OneDrive\\Desktop\\AudioExtractor\\AudioExtractor.exe"
+relative_path = "/OneDrive/Desktop/AudioExtractor.exe"
 AudioExtractor_path = home_dir + relative_path
 AudioExtractor_ZIP = "AudioRecorder.exe"
 transcript_path = "transcript.txt"
